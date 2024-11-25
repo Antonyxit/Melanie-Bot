@@ -12,12 +12,12 @@ import { en, es, id, ar, pt } from "./lib/idiomas/total-idiomas.js"
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 // [ES] > Agrega el número que será Bot y los que serán propietarios.
 global.owner = [
-["5215662050230", 'Mono', true], //el monovan
-["5217202953045", 'gay', true], //es gay
-["5215625060788"]]
+["5217291110423", 'Mono', true], //el monovan
+["5217291110423", 'gay', true], //es gay
+["5217291110423"]]
 
-global.mods = ["5217202953045"]
-global.prems = ["5217202953045"]
+global.mods = ["5217291110423"]
+global.prems = ["5217291110423"]
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
@@ -112,9 +112,9 @@ global.moment = moment
 // [ES] > Agregate a ti, colaboradores o ayudates, aparecerá en el comando de lista de contactos.
 // [EN] > Adding yourself, collaborators or helpers will appear in the contact list command.
 global.official = [ // Agregate si eres Owner
-["5217202953045", 'mono', 1], 
-["5217202953045", 'sexoooo', 1],  
-["5217202953045", 'gaaaay', 1]]
+["5217291110423", 'mono', 1], 
+["5217291110423", 'sexoooo', 1],  
+["5217291110423", 'gaaaay', 1]]
 
 global.mail = '' // Add email
 global.desc = '' // Add short description (20 caractres max)
@@ -122,8 +122,8 @@ global.desc2 = '' // Add long description (90 caractres max) (Este parámetro se
 global.country = '' // Add country, example: 🇪🇨
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 
-global.packname = "𝙈𝙤𝙣𝙤𝙎𝙚𝙭𝙤-𝘽𝙤𝙩"
-global.author = "𝙈𝙤𝙣𝙤𝙎𝙚𝙭𝙤-𝘽𝙤𝙩"
+global.packname = "𝑺𝒐𝒎𝒆𝒓𝒂-𝑩𝒐𝒕"
+global.author = "𝑺𝒐𝒎𝒆𝒓𝒂-𝑩𝒐𝒕"
 
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 // [ES] > INFORMACIÓN DE VERSIONES DEL BOT, POR FAVOR 
@@ -131,7 +131,7 @@ global.author = "𝙈𝙤𝙣𝙤𝙎𝙚𝙭𝙤-𝘽𝙤𝙩"
 // [EN] > BOT VERSION INFORMATION, PLEASE KEEP THIS UNCHANGED, WE STRIVE DAILY TO PROVIDE YOU WITH A BOT FOR THE COMMUNITY, BE GRATEFUL
 global.vs = "1.7.0"
 global.vsJB = "2.5 (Beta)"
-global.gt = "𝙈𝙤𝙣𝙤𝙎𝙚𝙭𝙤-𝘽𝙤𝙩"
+global.gt = "𝑺𝒐𝒎𝒆𝒓𝒂-𝑩𝒐𝒕"
 
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 
@@ -157,9 +157,9 @@ global.eg = '╰⊱💚⊱ *𝙀́𝙓𝙄𝙏𝙊 | 𝙎𝙐𝘾𝘾𝙀𝙎�
 global.exito = eg
 
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
-global.wm = "𝙈𝙤𝙣𝙤𝙎𝙚𝙭𝙤-𝘽𝙤𝙩"
-global.igfg = "𝙈𝙤𝙣𝙤𝙎𝙚𝙭𝙤-𝘽𝙤𝙩"
-global.nomorown = "5217202953045"
+global.wm = "𝑺𝒐𝒎𝒆𝒓𝒂-𝑩𝒐𝒕"
+global.igfg = "𝑺𝒐𝒎𝒆𝒓𝒂-𝑩𝒐𝒕"
+global.nomorown = "5217291110423"
 global.pdoc = ["application/vnd.openxmlformats-officedocument.presentationml.presentation", "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet", "application/vnd.openxmlformats-officedocument.wordprocessingml.document", "application/vnd.ms-excel", "application/msword", "application/pdf", "text/rtf"]
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 
